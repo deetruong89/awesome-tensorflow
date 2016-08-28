@@ -134,6 +134,8 @@ More info [here](http://tensorflow.org).
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 * [Tensorflow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - Complete guide to use Tensorflow from the basics of graph computing, to deep learning models to using it in production environmemts - Bleeding Edge Press
+* [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) - Machine Learning with TensorFlow teaches you machine learning algorithms and how to implement solutions with TensorFlow 
+
 
 <a name="contributions" />
 ## Contributions
